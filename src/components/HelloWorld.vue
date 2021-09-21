@@ -8,7 +8,7 @@
       </li>
       <li>
         <a href="https://forum.vuejs.org" target="_blank" rel="noopener"
-          >Foruma</a
+          >Forum</a
         >
       </li>
       <li>
